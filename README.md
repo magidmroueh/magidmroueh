@@ -36,7 +36,6 @@ A software engineer currently working at [Home HT](https://home.ht/)\*\*
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-0175C2?style=flat-square&logo=php&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 
