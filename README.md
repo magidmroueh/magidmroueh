@@ -42,7 +42,7 @@ A software engineer currently working at [Home HT](https://home.ht/)\*\*
 **I love**:
 
 <p> :musical_note: &nbsp; :computer: &nbsp; :ski: &nbsp; :space_invader: &nbsp; :clapper:</p>
-<p>:octocat: &nbsp; :earth_africa: &nbsp; :earth_asia: &nbsp; :earth_europe: &nbsp; :octocat: </p>
+<p>:octocat: &nbsp; :earth_africa: &nbsp; :earth_asia: &nbsp; :earth_americas: &nbsp; :octocat: </p>
 
 ---
 
