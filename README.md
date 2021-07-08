@@ -14,7 +14,7 @@
 **I am**:
 
 A software engineer currently working at [Home HT](https://home.ht/)\*\*
-:sunny: :smile_cat:
+:sunny: 🏠
 
 **I work with**:
 
