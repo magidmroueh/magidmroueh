@@ -1,4 +1,7 @@
 <p align="center">
+
+Software engineer currently working at [Home HT](https://home.ht/) :sunny: 🏠
+  
 <table>
   <tr>
     <td>
@@ -10,8 +13,6 @@
   </tr>
 </table>
 </p>
-
-Software engineer currently working at [Home HT](https://home.ht/) :sunny: 🏠
 
 **I work with**:
 
