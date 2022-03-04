@@ -26,7 +26,7 @@ Software engineer currently working at [Home HT](https://home.ht/) :sunny: 🏠
 </table>
 </p>
 
-Languages? well! **Arabic** :lebanon:, **English** :us:
+Languages? well! **Arabic** :lebanon:, **English** :us: and learning **German** :de:
 
 ---
 
