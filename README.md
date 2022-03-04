@@ -11,10 +11,7 @@
 </table>
 </p>
 
-**I am**:
-
-A software engineer currently working at [Home HT](https://home.ht/)
-:sunny: 🏠
+Software engineer currently working at [Home HT](https://home.ht/) :sunny: 🏠
 
 **I work with**:
 
