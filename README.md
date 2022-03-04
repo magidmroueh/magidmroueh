@@ -30,7 +30,7 @@ A software engineer currently working at [Home HT](https://home.ht/)\*\*
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-5849BE?style=flat-square&logo=php&logoColor=white" />
 </p>
 
-**I speak Arabic :lebanon:, English :us: **
+I speak **Arabic** :lebanon:, **English** :us:
 
 ---
 
