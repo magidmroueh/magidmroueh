@@ -1,6 +1,6 @@
 <p align="center">
 
-Software engineer currently working at [Home HT](https://home.ht/) :sunny: 🏠
+Software engineer currently working at [Buena](https://buena.com/) :sunny: 🏠
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
@@ -17,10 +17,10 @@ Software engineer currently working at [Home HT](https://home.ht/) :sunny: 🏠
 <table>
   <tr>
     <td>
-<p align="center"><a href="https://dev.page/magidmroueh"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=magidmroueh&show_icons=true&bg_color=0B0B0B&title_color=88DCF4&text_color=fff&icon_color=88DCF4&hide_border=true" /></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=magidmroueh&show_icons=true&bg_color=0B0B0B&title_color=88DCF4&text_color=fff&icon_color=88DCF4&hide_border=true" /></p>
     </td>
     <td>
-<p align="center"><a href="https://dev.page/magidmroueh"><img src="https://github-readme-stats.vercel.app/api?username=magidmroueh&show_icons=true&bg_color=0B0B0B&title_color=88DCF4&text_color=fff&icon_color=88DCF4&hide_border=true&count_private=true&show_icons=true" /></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=magidmroueh&show_icons=true&bg_color=0B0B0B&title_color=88DCF4&text_color=fff&icon_color=88DCF4&hide_border=true&count_private=true&show_icons=true" /></p>
     </td>
   </tr>
 </table>
