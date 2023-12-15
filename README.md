@@ -17,13 +17,13 @@ Software engineer currently working at [Buena](https://buena.com/) :sunny: 🏠
 <table>
   <tr>
     <td>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=magidmroueh&show_icons=true&bg_color=0B0B0B&title_color=88DCF4&text_color=fff&icon_color=88DCF4&hide_border=true" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=magidmroueh&show_icons=true&bg_color=0B0B0B&title_color=88DCF4&text_color=fff&icon_color=88DCF4&hide_border=true" /></p>
     </td>
     <td>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=magidmroueh&show_icons=true&bg_color=0B0B0B&title_color=88DCF4&text_color=fff&icon_color=88DCF4&hide_border=true&count_private=true&show_icons=true" /></p>
     </td>
   </tr>
-</table>
+</table> -->
 </p>
 
 Languages? well! **Arabic** :lebanon:, **English** :us: and learning **German** :de:
